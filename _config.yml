@@ -111,18 +111,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFDD0"
-text-col: "#2F2F2F"
-link-col: "#FF69B4"
-hover-col: "#FF1493"
-navbar-col: "#00A86B"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#008B58"
-footer-col: "#F5F5DC"
-footer-text-col: "#555555"
-footer-link-col: "#00A86B"
-footer-hover-col: "#FF69B4"
-
+page-col: "#FDF5E6"          # Warm Cream background
+text-col: "#354A21"          # Deep Forest Green 
+link-col: "#D44D5C"          # Dusty Pink links
+hover-col: "#B03A48"         # Darker pink for hover
+navbar-col: "#87A96B"        # Sage Green headers/navbar
+navbar-text-col: "#FFFFFF"   # Crisp white text
+navbar-border-col: "#76945D" # Muted sage border
+footer-col: "#E9EDC9"        # Very light sage-cream for footer
+footer-text-col: "#4F6443"   # Muted green footer text
+footer-link-col: "#354A21"   # Deep green footer links
+footer-hover-col: "#D44D5C"  # Pink hover in footer
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
