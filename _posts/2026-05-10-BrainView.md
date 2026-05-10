@@ -8,13 +8,13 @@ author: Serina Allen
 ---
 
 
-While researching the use of cloud computing within oncology, I came across an impressive study - _BrainView: A cloud-based deep learning system for brain image segmentation, tumor detection and visualisation._
+While researching the use of cloud computing within oncology, I came across an impressive study - _BrainView: A cloud-based deep learning system for brain image segmentation, tumor detection and visualisation._^1^
 AI is being used to diagnose brain cancer in seconds – not only cutting-edge technology but potentially lifesaving!
 
-According to the latest stats from Cancer Research UK, 
+According to the latest stats from Cancer Research UK^2^, 
 > "there are over 12,500 new cases of brain tumours diagnosed in the UK every year."
 
-More concerningly, in 2019, 40% of brain cancer cases were diagnosed via an emergency presentation" (often when the disease is already advanced).
+More concerningly, in 2019, 40% of brain cancer cases were diagnosed via an emergency presentation (often when the disease is already advanced).
 But what if the diagnosis timeline was shortened, and high-resolution, expert level brain tumour analysis was more accessible?
 
 This is where the **power of cloud** comes in!
@@ -31,5 +31,5 @@ Having these capabilities in the cloud provides specialist and expert knowledge 
 Seriously inspiring work! 
 
 **References:**
-* Cancer Research UK: [Brain and CNS tumour statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/brain-other-cns-and-intracranial-tumours)
-* BrainView in PubMed: [BrainView: A cloud-based deep learning system for brain image segmentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12874125/)
+* ^1^BrainView in PubMed: [BrainView: A cloud-based deep learning system for brain image segmentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12874125/)
+* ^2^Cancer Research UK: [Brain and CNS tumour statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/brain-other-cns-and-intracranial-tumours)
