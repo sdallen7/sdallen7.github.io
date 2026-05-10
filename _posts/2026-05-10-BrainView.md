@@ -1,3 +1,13 @@
+---
+layout: post
+title: The power of cloud in diagnosing brain tumours
+subtitle: The future of oncology!
+comments: true
+mathjax: true
+author: Serina Allen
+---
+
+
 While researching the use of cloud computing within oncology, I came across an impressive study - _BrainView: A cloud-based deep learning system for brain image segmentation, tumor detection and visualisation._
 AI is being used to diagnose brain cancer in seconds – not only cutting-edge technology but potentially lifesaving!
 
