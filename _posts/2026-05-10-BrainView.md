@@ -11,7 +11,7 @@ author: Serina Allen
 While researching the use of cloud computing within oncology, I came across an impressive study - _BrainView: A cloud-based deep learning system for brain image segmentation, tumor detection and visualisation._[^1]
 AI is being used to diagnose brain cancer in seconds – not only cutting-edge technology but potentially lifesaving!
 
-According to the latest stats from Cancer Research UK[^2], 
+According to the latest stats from Cancer Research UK[^2],
 > "there are over 12,500 new cases of brain tumours diagnosed in the UK every year."
 
 More concerningly, in 2019, 40% of brain cancer cases were diagnosed via an emergency presentation (often when the disease is already advanced).
